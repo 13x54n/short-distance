@@ -1,4 +1,10 @@
 module.exports = {
+  /**
+   * Calculates the shortest distance from a starting point to multiple destinations.
+   * @param {object} _startingPoint The starting latitude and longitude.
+   * @param {array} options Array of destination options with latitude and longitude.
+   * @returns {object} The index and distance of the closest destination option.
+   */
   shortestDistance: (_startingPoint, _options) => {
     let R = 3958.8; // Radius of earth calculated in miles
 
