@@ -1,8 +1,14 @@
 {
   "name": "short-distance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/13x54n/short-distance.git",
   "author": "13x54n <laxman.rai.07.26@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "shortest-path",
+    "haversine",
+    "distance",
+    "distance-calculation"
+  ]
 }
