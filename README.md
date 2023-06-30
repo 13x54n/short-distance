@@ -1,4 +1,4 @@
-# shortest-distance
+# short-distance
 Calculates the shortest distance from a starting point to multiple destinations.
 
 ### Installation
