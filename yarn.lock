@@ -4,5 +4,5 @@
 
 short-distance@^1.0.3:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/short-distance/-/short-distance-1.0.3.tgz#0a0e6d7f4cd9c26bcbbb39d378ef7b08e2e03524"
+  resolved "https://registry.npmjs.org/short-distance/-/short-distance-1.0.3.tgz"
   integrity sha512-7dnb36mQ8sVreh3vtbTQoOtbOI6Jf+jv/KtDiT001arcJhkamEBrWQ94l9XLDqHsi0g6Kn4QgFO/kPvT5Pym4Q==
